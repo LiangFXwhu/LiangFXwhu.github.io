@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center> LIANG Fuxun <br> 梁福逊 </center>"
+  name             : "LIANG Fuxun <br> 梁福逊"
   avatar           : "images/400-600.jpg"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
