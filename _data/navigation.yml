@@ -3,15 +3,16 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Honors and Awards"
+    url: "/#-selected-honors-and-awards"
+    
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
     url: "/#-selected-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-selected-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
 
